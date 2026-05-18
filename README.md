@@ -167,8 +167,7 @@ The ERD follows an **Enhanced Entity-Relationship (EER)** model with:
 | Bilal Ahmed Khan | NUM-BSCS-2024-21 | Database Design & Documentation |
 | Hadia Yasir | NUM-BSCS-2024-23 | Database Design & Documentation |
 
-**Supervisor:** Department of Computer Sciences, Namal University, Mianwali, Pakistan
-**Submission Date:** 15th April, 2026
+
 
 ---
 
