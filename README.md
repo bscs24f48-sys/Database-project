@@ -182,8 +182,4 @@ The ERD follows an **Enhanced Entity-Relationship (EER)** model with:
 
 ---
 
-<div align="center">
 
-Made with ❤️ at **Namal University, Mianwali** · Database Systems Course · 2026
-
-</div>
