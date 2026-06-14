@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Milestone%202%20Complete-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Milestone%202%30Complete-green?style=for-the-badge)
 ![University](https://img.shields.io/badge/Namal%20University-Mianwali-orange?style=for-the-badge)
 
 *A centralized database-driven platform connecting business owners, billboard/vehicle asset owners, and digital advertisers across Pakistan.*
